@@ -29,4 +29,4 @@ This specific example is not directly for trading, but the **similarity techniqu
 
 ---
 
-**Author:** *Your Name*
+**Author:** *Kushal Karki*
